@@ -21,3 +21,5 @@ The project includes several interactive Power BI pages covering different aspec
 The original Power BI project is available in the `.pbix` file.
 
 > Note: The original dataset used for this project is no longer available, so the project cannot be fully reproduced from the repository.
+
+Context This project was developed as part of the BUT Informatique coursework at Université Claude Bernard Lyon 1.
